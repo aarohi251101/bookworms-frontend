@@ -131,7 +131,7 @@ const Home = () => {
             >
               <img
                 className="testimonial"
-                src={url + /images/1slide.png}
+                src={url + "/images/1slide.png"}
                 alt="sherlock homes "
               />
               <div className="text">
@@ -156,7 +156,7 @@ const Home = () => {
             >
               <img
                 className="testimonial"
-                src={url + /images/3slide.png}
+                src={url + "/images/3slide.png"}
                 alt="lord of rings "
               />
               <div className="text">
