@@ -24,15 +24,15 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .signup-img{
   height:100vh;
-  background: url("http://localhost:5000/images/8bb.jpg");
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%),url("http://localhost:5000/images/8bb.jpg");
+  background: url("https://bookwormsrestapi.herokuapp.com/images/8bb.jpg");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%),url("https://bookwormsrestapi.herokuapp.com/images/8bb.jpg");
   background-size: cover;
   background-position: center
 }
 
 .add-img{
-  background: url("http://localhost:5000/images/addnovel.png");
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.2) 100%),url("http://localhost:5000/images/addnovel.png");
+  background: url("https://bookwormsrestapi.herokuapp.com/images/addnovel.png");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.2) 100%),url("https://bookwormsrestapi.herokuapp.com/images/addnovel.png");
   background-size: cover;
   background-position: center;
   background-repeat: repeat-y;
@@ -56,8 +56,8 @@ h1,h2,h3,h4,h5,h6,p{
 
 .querypage{
   height:100vh;
-  background: url("http://localhost:5000/images/image.png");
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%),url("http://localhost:5000/images/image.png");
+  background: url("https://bookwormsrestapi.herokuapp.com/images/image.png");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.3) 100%),url("https://bookwormsrestapi.herokuapp.com/images/image.png");
   background-size: cover;
   background-position: center;
 }
@@ -89,8 +89,8 @@ h1,h2,h3,h4,h5,h6,p{
 .homes{
   height: 700px;
   object-fit: cover;
-  background-image: url("http://localhost:5000/images/7bb.jpg");
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.2) 100%),url("http://localhost:5000/images/7bb.jpg");
+  background-image: url("https://bookwormsrestapi.herokuapp.com/images/7bb.jpg");
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0.2) 100%),url("https://bookwormsrestapi.herokuapp.com/images/7bb.jpg");
   background-size: cover;
 }
 
@@ -110,7 +110,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 .home-browse{
   height:45vh;
-  background: url("http://localhost:5000/images/browse.jpg");
+  background: url("https://bookwormsrestapi.herokuapp.com/images/browse.jpg");
   background-size: cover;
   background-position: center
 }
